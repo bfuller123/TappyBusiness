@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_name">Name</string>
+    <string name="button_send">Create</string>
+    <string name="edit_email">Email address</string>
+    <string name="edit_street_address">Street address</string>
+    <string name="edit_state">ST</string>
+    <string name="edit_phone">###-###-####</string>
+    <string name="edit_city">City</string>
+</resources>
